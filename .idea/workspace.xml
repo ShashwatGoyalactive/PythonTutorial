@@ -4,19 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d540f42e-0e8f-41eb-a27a-82cbf340924a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Tutorial.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1_app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_variables.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_UserInput.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4_Strings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_FormattedStrings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6_StringMethods.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7_Operators.py" afterDir="false" />
+    <list default="true" id="d540f42e-0e8f-41eb-a27a-82cbf340924a" name="Changes" comment="Python Day1">
+      <change afterPath="$PROJECT_DIR$/10_LogicalOperators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_Comparison.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_Loops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13_forLoop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14_nestedloops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16_2DList.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17_listMethods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_Conditionals.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,9 +31,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2cn0IuhgqEU8w1Cgd2G5IKFRuAZ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -44,9 +42,19 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.10_LogicalOperators.executor": "Run",
+    "Python.11_Comparison.executor": "Run",
+    "Python.12_Loops.executor": "Run",
+    "Python.13_forLoop.executor": "Run",
+    "Python.14_nestedloops.executor": "Run",
+    "Python.15_list.executor": "Run",
+    "Python.16_2DList.executor": "Run",
+    "Python.17_listMethods.executor": "Run",
     "Python.3_UserInput.executor": "Run",
     "Python.6_StringMethods.executor": "Run",
     "Python.7_Operators.executor": "Run",
+    "Python.8_MathFunction.executor": "Run",
+    "Python.9_Conditionals.executor": "Run",
     "Python.FormattedStrings.executor": "Run",
     "Python.Strings.executor": "Run",
     "Python.app.executor": "Run",
@@ -78,6 +86,19 @@
       <option name="presentableId" value="Default" />
       <updated>1708731960333</updated>
     </task>
+    <task id="LOCAL-00001" summary="Python Day1">
+      <option name="closed" value="true" />
+      <created>1708738015592</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708738015592</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Python Day1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Python Day1" />
   </component>
 </project>
