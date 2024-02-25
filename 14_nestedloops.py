@@ -3,6 +3,6 @@ for x in range(3):
         print(f'({x},{y})')
 
 numbers =[5,2,5,2,2]
-
+#
 for item in numbers:
         print('*' * item)

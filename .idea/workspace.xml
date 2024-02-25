@@ -5,16 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d540f42e-0e8f-41eb-a27a-82cbf340924a" name="Changes" comment="Python Day1">
-      <change afterPath="$PROJECT_DIR$/10_LogicalOperators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_Comparison.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_Loops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13_forLoop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_nestedloops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16_2DList.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17_listMethods.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_Conditionals.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_LogicalOperators.py" beforeDir="false" afterPath="$PROJECT_DIR$/10_LogicalOperators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11_Comparison.py" beforeDir="false" afterPath="$PROJECT_DIR$/11_Comparison.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12_Loops.py" beforeDir="false" afterPath="$PROJECT_DIR$/12_Loops.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/13_forLoop.py" beforeDir="false" afterPath="$PROJECT_DIR$/13_forLoop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/14_nestedloops.py" beforeDir="false" afterPath="$PROJECT_DIR$/14_nestedloops.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/15_list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/16_2DList.py" beforeDir="false" afterPath="$PROJECT_DIR$/16_2DList.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/17_listMethods.py" beforeDir="false" afterPath="$PROJECT_DIR$/17_listMethods.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8_MathFunction.py" beforeDir="false" afterPath="$PROJECT_DIR$/8_MathFunction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9_Conditionals.py" beforeDir="false" afterPath="$PROJECT_DIR$/9_Conditionals.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +94,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708738015592</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Python Day1">
+      <option name="closed" value="true" />
+      <created>1708824523435</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1708824523435</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
