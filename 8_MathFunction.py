@@ -2,7 +2,7 @@ import math
 
 ''' python provides some built in functions for performing 
     mathematical operations like round , abs  however to implement some advanced mathematical
-     operations math module (a module in python is like a package in java) and then accessing
+     operations math module (a module in python is like a predefined package in java) and then accessing
      its methods using a dot operator   
      '''
 
